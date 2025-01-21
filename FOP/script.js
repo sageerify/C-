@@ -1,1 +1,3 @@
-var x = 11;
+//all condition true than it's true.
+//if one is false then all is false.
+//&& || !
