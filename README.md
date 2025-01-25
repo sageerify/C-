@@ -1,8 +1,10 @@
 C++ Programming Repository 🚀
 --
 Welcome to the C++ Programming Repository! This repository contains a collection of C++ programs, projects, and algorithms that demonstrate the core features of the C++ programming language. It is designed for both beginners looking to learn C++ and advanced developers seeking reusable code snippets and project ideas.
+--
 
 Table of Contents
+--
 Features
 Getting Started
 Folder Structure
