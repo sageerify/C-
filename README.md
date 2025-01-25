@@ -14,6 +14,7 @@ Technologies Used
 Contributing
 License
 Features
+--
 Basic Syntax: Programs covering variables, loops, conditionals, and functions.
 Data Structures: Implementations of arrays, linked lists, stacks, queues, trees, and graphs.
 Algorithms: Sorting, searching, recursion, and dynamic programming.
