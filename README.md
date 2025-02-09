@@ -52,7 +52,11 @@ cmake ..
 make
 If you are using another build system, provide the appropriate commands here.
 
+---
+
 Run the executable:
+
+---
 
 bash
 Copy
