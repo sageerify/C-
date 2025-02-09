@@ -22,13 +22,15 @@ Acknowledgments
 
 ---
 
-Installation
+Installation:
 
 ---
 
 To get started with this project, follow these steps:
 
-Clone the repository:
+---
+
+**Clone the repository:**
 
 bash
 Copy
