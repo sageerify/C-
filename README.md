@@ -6,7 +6,8 @@ A brief description of your C++ project. This project is designed to [explain th
 
 ---
 
-Table of Contents
+**Table of Contents**
+
 Installation
 
 Usage
@@ -19,7 +20,12 @@ License
 
 Acknowledgments
 
+---
+
 Installation
+
+---
+
 To get started with this project, follow these steps:
 
 Clone the repository:
