@@ -4,6 +4,8 @@ C++
 
 A brief description of your C++ project. This project is designed to [explain the purpose or main functionality of the project].
 
+---
+
 Table of Contents
 Installation
 
