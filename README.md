@@ -1,4 +1,4 @@
-# C-
+Project Name
 A brief description of your C++ project. This project is designed to [explain the purpose or main functionality of the project].
 
 Table of Contents
@@ -87,4 +87,8 @@ This project is licensed under the [License Name] - see the LICENSE file for det
 Acknowledgments
 Mention any resources, libraries, or tools you used.
 
-Give credit to any contributors or inspirations for the project.
+Give credit to any contributors or inspirations for the project
+
+---
+
+Feel free to customize this template to better fit your project's needs!
