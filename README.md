@@ -76,7 +76,12 @@ int main() {
 }
 Include any additional details or examples that might be useful for users.
 
+---
+
 Features
+
+---
+
 Feature 1: Description of feature 1.
 
 Feature 2: Description of feature 2.
